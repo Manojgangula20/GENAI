@@ -1,1 +1,1 @@
-## This repo Holds everything , I learning about GENAI
+## This repo Holds everything , I learn about GENAI
